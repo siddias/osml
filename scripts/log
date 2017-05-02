@@ -1,0 +1,194 @@
+[  709.820651] Attribs,gnome-session,683257856,4422804,224,23108,/usr/bin/gnome-session
+[  709.822209] Attribs,gdbus,683257856,4422804,224,23108,/usr/bin/gnome-session
+[  709.832374] Attribs,zeitgeist-datah,154279936,4316380,120,22440,/usr/bin/zeitgeist-datahub
+[  709.833311] Attribs,pool,229781504,4316380,120,22440,/usr/bin/zeitgeist-datahub
+[  709.835581] Attribs,dbus-daemon,40960000,4619476,416,3376,/bin/dbus-daemon
+[  709.835902] Attribs,dbus-daemon,40960000,4619476,416,3376,/bin/dbus-daemon
+[  709.938616] Attribs,zeitgeist-daemo,45178880,4388348,192,6524,/usr/bin/zeitgeist-daemon
+[  709.944595] Attribs,zeitgeist-daemo,121118720,4388348,192,6524,/usr/bin/zeitgeist-daemon
+[  709.944633] Attribs,zeitgeist-daemo,129511424,4388348,192,6524,/usr/bin/zeitgeist-daemon
+[  709.944783] Attribs,zeitgeist-daemo,137904128,4388348,192,6524,/usr/bin/zeitgeist-daemon
+[  709.946278] Attribs,dbus-daemon,41058304,4619476,416,3376,/bin/dbus-daemon
+[  709.949728] Attribs,zeitgeist-daemo,137904128,4388348,192,6524,/usr/bin/zeitgeist-daemon
+[  709.950408] Attribs,dbus-daemon,41058304,4619476,416,3376,/bin/dbus-daemon
+[  709.953541] Attribs,zeitgeist-daemo,137904128,4388348,192,6524,/usr/bin/zeitgeist-daemon
+[  709.956760] Attribs,zeitgeist-datah,305401856,4316380,120,22440,/usr/bin/zeitgeist-datahub
+[  709.970996] Attribs,zeitgeist-datah,154279936,4316380,120,22440,/usr/bin/zeitgeist-datahub
+[  709.971983] Attribs,pool,229781504,4316380,120,22440,/usr/bin/zeitgeist-datahub
+[  709.988298] Attribs,zeitgeist-datah,305397760,4316380,120,22440,/usr/bin/zeitgeist-datahub
+[  709.993911] Attribs,zeitgeist-datah,339439616,4316380,120,24404,/usr/bin/zeitgeist-datahub
+[  710.038043] Attribs,zeitgeist-fts,95735808,4324466,128,37192,/usr/lib/x86_64-linux-gnu/zeitgeist-fts
+[  710.078847] Attribs,zeitgeist-fts,163147776,4324466,128,37192,/usr/lib/x86_64-linux-gnu/zeitgeist-fts
+[  710.172964] Attribs,zeitgeist-fts,171675648,4324466,128,37192,/usr/lib/x86_64-linux-gnu/zeitgeist-fts
+[  711.938033] Attribs,bash,27664384,5173212,956,2280,/bin/bash
+[  719.964026] Attribs,compiz,932769792,4204940,12,116712,/usr/bin/compiz
+[  719.965207] Attribs,compiz,932769792,4204940,12,116712,/usr/bin/compiz
+[  719.981236] Attribs,compiz,932769792,4204940,12,116712,/usr/bin/compiz
+[  720.002092] Attribs,gdbus,941162496,4204940,12,116712,/usr/bin/compiz
+[  720.069783] Attribs,zeitgeist-fts,247177216,4324466,128,37192,/usr/lib/x86_64-linux-gnu/zeitgeist-fts
+[  722.420669] Attribs,Cache2 I/O,483246080,93834014870756,112,102800,/usr/lib/firefox/firefox
+[  722.592877] Attribs,compiz,1008619520,4204940,12,116712,/usr/bin/compiz
+[  722.592929] Attribs,compiz,1017012224,4204940,12,116712,/usr/bin/compiz
+[  722.592967] Attribs,compiz,1025404928,4204940,12,116712,/usr/bin/compiz
+[  722.593003] Attribs,compiz,1033797632,4204940,12,116712,/usr/bin/compiz
+[  722.593035] Attribs,compiz,1042190336,4204940,12,116712,/usr/bin/compiz
+[  722.593069] Attribs,compiz,1050583040,4204940,12,116712,/usr/bin/compiz
+[  723.416996] Attribs,ibus-daemon,385392640,4346748,152,9316,/usr/bin/ibus-daemon
+[  727.093659] Attribs,unity-panel-ser,515854336,4262628,68,24140,/usr/lib/unity/unity-panel-service
+[  727.093745] Attribs,unity-panel-ser,524247040,4262628,68,24140,/usr/lib/unity/unity-panel-service
+[  727.229804] Attribs,Socket Thread,878288896,93834014870756,112,106828,/usr/lib/firefox/firefox
+[  727.265245] Attribs,IPDL Background,887762944,93834014870756,112,106828,/usr/lib/firefox/firefox
+[  727.316118] Attribs,Socket Thread,904613888,93834014870756,112,106828,/usr/lib/firefox/firefox
+[  727.415098] Attribs,IPDL Background,915103744,93834014870756,112,106828,/usr/lib/firefox/firefox
+[  730.470403] Attribs,Socket Thread,1004265472,93834014870756,112,106828,/usr/lib/firefox/firefox
+[  730.506529] Attribs,Socket Thread,1012789248,93834014870756,112,106828,/usr/lib/firefox/firefox
+[  730.813678] Attribs,Socket Thread,1028919296,93834014870756,112,106828,/usr/lib/firefox/firefox
+[  741.106861] Attribs,MediaPl~back #1,1240764416,93834014870756,112,108504,/usr/lib/firefox/firefox
+[  741.106974] Attribs,MediaPl~back #1,1241296896,93834014870756,112,108504,/usr/lib/firefox/firefox
+[  741.107014] Attribs,MediaPl~back #4,1241563136,93834014870756,112,108504,/usr/lib/firefox/firefox
+[  741.107629] Attribs,MediaPl~back #3,1242095616,93834014870756,112,108504,/usr/lib/firefox/firefox
+[  741.108146] Attribs,MediaPl~back #5,1242361856,93834014870756,112,108504,/usr/lib/firefox/firefox
+[  741.108176] Attribs,MediaPl~back #6,1242628096,93834014870756,112,108504,/usr/lib/firefox/firefox
+[  741.108242] Attribs,MediaPl~back #2,1242894336,93834014870756,112,108504,/usr/lib/firefox/firefox
+[  746.717272] Attribs,sh,4554752,94665726072940,112,1908,/bin/dash
+[  746.718249] Attribs,sh,4554752,94665726072940,112,1908,/bin/dash
+[  746.719425] Attribs,sh,4554752,94665726072940,112,1908,/bin/dash
+[  746.720181] Attribs,sh,4554752,94665726072940,112,1908,/bin/dash
+[  746.726164] Attribs,sh,4554752,94665726072940,112,1908,/bin/dash
+[  746.761026] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.765281] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.769373] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.773141] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.776911] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.811644] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.824701] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.828854] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.833333] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.838821] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.843746] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.850345] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.855244] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.860833] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.864746] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.868414] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.872384] Attribs,logrotate,33472512,4252764,60,2592,/usr/sbin/logrotate
+[  746.878828] Attribs,sh,4554752,94665726072940,112,1908,/bin/dash
+[  747.024667] Attribs,dbus-daemon,41058304,4619476,416,3376,/bin/dbus-daemon
+[  747.025012] Attribs,dbus-daemon,41058304,4619476,416,3376,/bin/dbus-daemon
+[  747.106105] Attribs,unity-scope-hom,144162816,4475532,276,39688,/usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+[  747.111354] Attribs,unity-scope-hom,152690688,4475532,276,39688,/usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+[  747.316046] Attribs,unity-scope-hom,288415744,4475532,276,39688,/usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+[  747.420656] Attribs,unity-scope-hom,296808448,4475532,276,39688,/usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+[  747.424356] Attribs,gnome-keyring-d,338923520,5084604,872,10252,/usr/bin/gnome-keyring-daemon
+[  747.678839] Attribs,unity-scope-hom,404033536,4475532,276,41680,/usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+[  747.678869] Attribs,unity-scope-hom,412426240,4475532,276,41680,/usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+[  747.719610] Attribs,compiz,1239412736,4204940,12,116712,/usr/bin/compiz
+[  747.719631] Attribs,compiz,1239412736,4204940,12,116712,/usr/bin/compiz
+[  747.858574] Attribs,unity-scope-hom,561524736,4475532,276,41852,/usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+[  747.858646] Attribs,unity-scope-hom,569917440,4475532,276,41852,/usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+[  747.869339] Attribs,dbus-daemon,41058304,4619476,416,3376,/bin/dbus-daemon
+[  747.880959] Attribs,dbus-daemon,41058304,4619476,416,3376,/bin/dbus-daemon
+[  747.882308] Attribs,dbus-daemon,41058304,4619476,416,3376,/bin/dbus-daemon
+[  747.883396] Attribs,dbus-daemon,41058304,4619476,416,3376,/bin/dbus-daemon
+[  747.884547] Attribs,dbus-daemon,41058304,4619476,416,3376,/bin/dbus-daemon
+[  747.885118] Attribs,dbus-daemon,41058304,4619476,416,3376,/bin/dbus-daemon
+[  747.904957] Attribs,unity-scope-loa,114040832,4199572,8,36264,/usr/bin/unity-scope-loader
+[  747.931507] Attribs,dconf worker,191975424,4199572,8,36576,/usr/bin/unity-scope-loader
+[  747.958923] Attribs,unity-scope-loa,294019072,4199572,8,41012,/usr/bin/unity-scope-loader
+[  747.958996] Attribs,unity-scope-loa,302411776,4199572,8,41012,/usr/bin/unity-scope-loader
+[  747.960163] Attribs,unity-files-dae,106532864,4328580,132,36532,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  747.987467] Attribs,unity-files-dae,204808192,4328580,132,37660,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  747.989018] Attribs,unity-files-dae,213200896,4328580,132,37660,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  748.008573] Attribs,unity-files-dae,355811328,4328580,132,37660,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  748.013527] Attribs,zeitgeist-daemo,305270784,4388348,192,9832,/usr/bin/zeitgeist-daemon
+[  748.014286] Attribs,unity-files-dae,364380160,4328580,132,37660,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  748.091112] Attribs,unity-files-dae,448782336,4328580,132,37872,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  748.416459] Attribs,python3,143384576,7329924,3064,36908,/usr/bin/python3.4
+[  748.454952] Attribs,dconf worker,218886144,7329924,3064,36908,/usr/bin/python3.4
+[  748.635186] Attribs,unity-scope-hom,704135168,4475532,276,41852,/usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+[  748.645259] Attribs,dbus-daemon,41058304,4619476,416,3376,/bin/dbus-daemon
+[  748.646830] Attribs,dbus-daemon,41058304,4619476,416,3376,/bin/dbus-daemon
+[  748.721597] Attribs,unity-music-dae,108376064,4317300,124,36292,/usr/lib/x86_64-linux-gnu/unity-lens-music/unity-music-daemon
+[  748.745441] Attribs,unity-music-dae,184012800,4317300,124,36292,/usr/lib/x86_64-linux-gnu/unity-lens-music/unity-music-daemon
+[  748.822043] Attribs,python3,399405056,7329924,3064,49496,/usr/bin/python3.4
+[  748.822472] Attribs,python3,407797760,7329924,3064,49496,/usr/bin/python3.4
+[  748.849435] Attribs,python3,559038464,7329924,3064,49708,/usr/bin/python3.4
+[  748.849850] Attribs,python3,567431168,7329924,3064,49708,/usr/bin/python3.4
+[  748.911324] Attribs,unity-music-dae,291463168,4317300,124,37632,/usr/lib/x86_64-linux-gnu/unity-lens-music/unity-music-daemon
+[  748.973030] Attribs,python3,701648896,7329924,3064,49708,/usr/bin/python3.4
+[  749.024145] Attribs,compiz,1245147136,4204940,12,116712,/usr/bin/compiz
+[  749.024178] Attribs,compiz,1245147136,4204940,12,116712,/usr/bin/compiz
+[  749.024206] Attribs,compiz,1245147136,4204940,12,116712,/usr/bin/compiz
+[  749.024268] Attribs,compiz,1253539840,4204940,12,116712,/usr/bin/compiz
+[  749.024309] Attribs,compiz,1261932544,4204940,12,116712,/usr/bin/compiz
+[  749.024343] Attribs,compiz,1270325248,4204940,12,116712,/usr/bin/compiz
+[  749.024376] Attribs,compiz,1278717952,4204940,12,116712,/usr/bin/compiz
+[  749.024647] Attribs,compiz,1287110656,4204940,12,116712,/usr/bin/compiz
+[  749.024691] Attribs,compiz,1295503360,4204940,12,116712,/usr/bin/compiz
+[  749.066293] Attribs,unity-scope-loa,442925056,4199572,8,41012,/usr/bin/unity-scope-loader
+[  749.490983] Attribs,unity-files-dae,583262208,4328580,132,37872,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  749.494710] Attribs,unity-files-dae,583262208,4328580,132,37872,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  749.587298] Attribs,unity-scope-hom,704135168,4475532,276,41852,/usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+[  749.589656] Attribs,unity-scope-loa,464072704,4199572,8,41224,/usr/bin/unity-scope-loader
+[  749.596736] Attribs,unity-scope-loa,539578368,4199572,8,41224,/usr/bin/unity-scope-loader
+[  749.807558] Attribs,gnome-session,683241472,4422804,224,23108,/usr/bin/gnome-session
+[  749.840738] Attribs,gnome-session,683241472,4422804,224,23108,/usr/bin/gnome-session
+[  749.851897] Attribs,gdbus,683241472,4422804,224,23108,/usr/bin/gnome-session
+[  749.905664] Attribs,update-notifier,192811008,4245172,52,21384,/usr/bin/update-notifier
+[  749.916039] Attribs,dconf worker,268312576,4245172,52,21384,/usr/bin/update-notifier
+[  750.006412] Attribs,update-notifier,367341568,4245172,52,21856,/usr/bin/update-notifier
+[  750.450380] Attribs,unity-files-dae,583262208,4328580,132,37872,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  750.465426] Attribs,unity-files-dae,591654912,4328580,132,37872,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  750.465770] Attribs,unity-files-dae,600047616,4328580,132,37872,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  750.466027] Attribs,unity-files-dae,608440320,4328580,132,37872,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  750.466736] Attribs,unity-files-dae,616833024,4328580,132,37872,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  750.466855] Attribs,unity-files-dae,625225728,4328580,132,37872,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  750.467114] Attribs,unity-files-dae,633618432,4328580,132,37872,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  750.467475] Attribs,unity-files-dae,642011136,4328580,132,37872,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  750.467647] Attribs,unity-files-dae,650403840,4328580,132,37872,/usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+[  750.801640] Attribs,update-notifier,451473408,4245172,52,22068,/usr/bin/update-notifier
+[  750.803797] Attribs,update-notifier,459870208,4245172,52,22068,/usr/bin/update-notifier
+[  750.804257] Attribs,update-notifier,459870208,4245172,52,22068,/usr/bin/update-notifier
+[  750.819555] Attribs,compiz,1255870464,4204940,12,116712,/usr/bin/compiz
+[  750.821839] Attribs,compiz,1255870464,4204940,12,116712,/usr/bin/compiz
+[  750.894588] Attribs,gdbus,1255870464,4204940,12,116712,/usr/bin/compiz
+[  751.334492] Attribs,compiz,1255870464,4204940,12,116712,/usr/bin/compiz
+[  751.426167] Attribs,apt-check,66064384,7329924,3064,8292,/usr/bin/python3.4
+[  751.527251] Attribs,apt-check,66064384,7329924,3064,8292,/usr/bin/python3.4
+[  751.533509] Attribs,apt-check,113004544,7329924,3064,8292,/usr/bin/python3.4
+[  751.542066] Attribs,apt-check,113004544,7329924,3064,8292,/usr/bin/python3.4
+[  752.130673] Attribs,ibus-daemon,385527808,4346748,152,9316,/usr/bin/ibus-daemon
+[  753.985304] Attribs,apt-check,171134976,7329924,3064,8292,/usr/bin/python3.4
+[  753.988566] Attribs,apt-check,171134976,7329924,3064,8292,/usr/bin/python3.4
+[  755.394680] Attribs,update-notifier,595394560,4245172,52,22068,/usr/bin/update-notifier
+[  755.423534] Attribs,pkexec,70389760,4211588,20,6516,/usr/bin/pkexec
+[  755.469294] Attribs,package-system-,4554752,94529965762668,112,1908,/bin/dash
+[  755.608638] Attribs,package-system-,4554752,94529965762668,112,1908,/bin/dash
+[  755.666554] Attribs,package-system-,4554752,94529965762668,112,1908,/bin/dash
+[  755.923478] Attribs,indicator-appli,369176576,4231124,36,19352,/usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+[  756.793908] Attribs,update-notifier,595398656,4245172,52,22068,/usr/bin/update-notifier
+[  757.084258] Attribs,update-notifier,595398656,4245172,52,22068,/usr/bin/update-notifier
+[  762.916852] Attribs,unity-scope-hom,704139264,4475532,276,41852,/usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+[  777.440759] Attribs,systemd-udevd,53301248,4398228,200,3412,/lib/systemd/systemd-udevd
+[  777.441064] Attribs,systemd-udevd,53301248,4398228,200,3412,/lib/systemd/systemd-udevd
+[  809.771788] Attribs,gnome-session,683241472,4422804,224,23108,/usr/bin/gnome-session
+[  809.826342] Attribs,gnome-session,683241472,4422804,224,23108,/usr/bin/gnome-session
+[  809.827580] Attribs,gdbus,683241472,4422804,224,23108,/usr/bin/gnome-session
+[  809.853512] Attribs,deja-dup-monito,100818944,4213236,20,10256,/usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+[  809.855752] Attribs,deja-dup-monito,109211648,4213236,20,10256,/usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+[  809.860404] Attribs,deja-dup-monito,251822080,4213236,20,10256,/usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+[  809.860454] Attribs,deja-dup-monito,260214784,4213236,20,10256,/usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+[  809.860817] Attribs,deja-dup-monito,335716352,4213236,20,10256,/usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+[  809.863019] Attribs,deja-dup-monito,344240128,4213236,20,10256,/usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+[  857.479702] Attribs,systemd-udevd,53301248,4398228,200,3412,/lib/systemd/systemd-udevd
+[  857.479895] Attribs,systemd-udevd,53301248,4398228,200,3412,/lib/systemd/systemd-udevd
+[  858.611536] Attribs,bash,27664384,5173212,956,2280,/bin/bash
+[  858.611675] Attribs,bash,27664384,5173212,956,2280,/bin/bash
+[  869.280539] Attribs,bash,27672576,5173212,956,2280,/bin/bash
+[  869.281903] Attribs,bash,27680768,5173212,956,2280,/bin/bash
+[  869.686162] Attribs,bash,27680768,5173212,956,2280,/bin/bash
+[  869.687168] Attribs,bash,27680768,5173212,956,2280,/bin/bash
+[  870.462422] Attribs,bash,27680768,5173212,956,2280,/bin/bash
+[  870.463403] Attribs,bash,27680768,5173212,956,2280,/bin/bash
+[  870.978916] Attribs,bash,27680768,5173212,956,2280,/bin/bash
+[  870.979087] Attribs,bash,27680768,5173212,956,2280,/bin/bash

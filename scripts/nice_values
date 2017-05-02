@@ -1,0 +1,24 @@
+00-header                                          99
+resolvconf                                         99
+kworker/0:0                                        99
+init                                               99
+sh                                                 99
+mountall                                           99
+Socket Thread                                      08
+apt-check                                          00
+gdbus                                              04
+zeitgeist-daemo                                    99
+unity-scope-hom                                    16
+ibus-daemon                                        99
+unity-files-dae                                    16
+run-parts                                          -8
+logrotate                                          99
+pulseaudio                                         08
+unity-scope-loa                                    04
+Cache2 I/O                                         08
+python3                                            08
+gnome-session                                      08
+IPDL Background                                    08
+grep                                               -8
+dbus-daemon                                        -8
+bash                                               -8
