@@ -29,9 +29,17 @@ for ins in arr:
 		values.append(99)
 
 process_dict = dict(zip(names,values))
-with open('nice_values','a') as f:
-	for name,nice in process_dict.items():
+import json
+with open('nice_file.json','r') as f:
+	data = json.load(f)
+data.update(process_dict)
+
+with open('nice_file','w') as f:
+	for name,nice in data.items():
 		f.write("%-50s %02d\n" %(name,nice))
+
+with open('nice_file.json','w') as f:
+	json.dump(data,f)
 
 import numpy.ma as ma
 temp = arr

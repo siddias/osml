@@ -1,0 +1,42 @@
+Socket-Thread                                      08
+apt-check                                          99
+pool                                               99
+Socket Thread                                      08
+gedit                                              00
+pulseaudio                                         08
+gnome-keyring-d                                    99
+Cache2-I/O                                         08
+compiz                                             99
+dbus-daemon                                        -8
+zeitgeist-fts                                      99
+package-system-                                    99
+indicator-appli                                    99
+unity-scope-hom                                    99
+mountall                                           99
+init                                               99
+resolvconf                                         99
+deja-dup-monito                                    99
+bash                                               -8
+run-parts                                          -8
+update-notifier                                    99
+unity-scope-loa                                    99
+ibus-daemon                                        99
+unity-music-dae                                    99
+kworker/0:0                                        99
+dconf worker                                       99
+unity-panel-ser                                    99
+zeitgeist-daemo                                    99
+IPDL-Background                                    08
+gdbus                                              99
+pkexec                                             99
+python3                                            99
+zeitgeist-datah                                    99
+00-header                                          99
+grep                                               -8
+systemd-udevd                                      99
+logrotate                                          -8
+Cache2 I/O                                         08
+IPDL Background                                    08
+sh                                                 99
+gnome-session                                      08
+unity-files-dae                                    99
