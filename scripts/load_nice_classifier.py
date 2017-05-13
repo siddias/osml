@@ -40,6 +40,11 @@ def check_for_nulls(x):
 	except ValueError:
 		return 0
 		
+def format_labels(x):
+	if x >= 0 and x < 10:
+		return '0' + str(x)
+	elif x < 0 and x > -10:
+		return '-0' + str(-x)
 	
 X[:,1] = map(to_dec,X[:,1])
 X[:,2] = map(to_dec,X[:,2])
@@ -52,6 +57,8 @@ y = map(str, y)
 
 labels = clf.predict(X)
 #labels = map(str, labels)
+
+labels = map(format_labels, labels)
 
 process_dict = dict(zip(y,labels))
 
