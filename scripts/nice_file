@@ -1,4 +1,4 @@
-Socket-Thread                                      08
+Socket-Thread                                     -08
 apt-check                                          99
 pool                                               99
 Socket Thread                                      08
@@ -7,7 +7,7 @@ pulseaudio                                         08
 gnome-keyring-d                                    99
 Cache2-I/O                                         08
 compiz                                             99
-dbus-daemon                                        -8
+dbus-daemon                                        08
 zeitgeist-fts                                      99
 package-system-                                    99
 indicator-appli                                    99
@@ -16,8 +16,8 @@ mountall                                           99
 init                                               99
 resolvconf                                         99
 deja-dup-monito                                    99
-bash                                               -8
-run-parts                                          -8
+bash                                               08
+run-parts                                         -16
 update-notifier                                    99
 unity-scope-loa                                    99
 ibus-daemon                                        99
@@ -32,9 +32,9 @@ pkexec                                             99
 python3                                            99
 zeitgeist-datah                                    99
 00-header                                          99
-grep                                               -8
+grep                                               08
 systemd-udevd                                      99
-logrotate                                          -8
+logrotate                                         -08
 Cache2 I/O                                         08
 IPDL Background                                    08
 sh                                                 99
