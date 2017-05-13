@@ -76,7 +76,7 @@ int init_module(void)
     printk(KERN_INFO "OSML module is loaded\n");
 
     // Read file
-    f = file_open("/home/osboxes/km/nice_file", O_RDONLY, 0);
+    f = file_open("/tmp/osml/nice_file", O_RDONLY, 0);
 	
 	if(f == NULL)
         printk(KERN_ALERT "Error opening file!\n");
