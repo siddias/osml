@@ -76,7 +76,7 @@ int init_module(void)
     printk(KERN_INFO "OSML module is loaded\n");
 
     // Read file
-    f = file_open("/tmp/osml/nice_file", O_RDONLY, 0);
+    f = file_open("/etc/osml/nice_file", O_RDONLY, 0);
 	
 	if(f == NULL)
         printk(KERN_ALERT "Error opening file!\n");
@@ -92,7 +92,7 @@ int init_module(void)
 				break;
 			
 			// Read name and nice from buffer
-			sscanf(buf, "%s %d", name, &nice);
+			sscanf(buf, "%s%d", name, &nice);
 			
 			// Allocate memory for the hash table entry
 			h = kmalloc(sizeof *h, GFP_KERNEL);
