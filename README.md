@@ -16,7 +16,7 @@ https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.59.tar.xz
   ``` shell
   cd ~/osml/hash-table-gen
   mkdir /etc/osml
-  cp nice_file /tmp/osml
+  cp nice_file /etc/osml
   make
   ```
 6) Issue follow commands to compile the kernel (will take some time)
