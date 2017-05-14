@@ -15,7 +15,7 @@ https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.59.tar.xz
 5) Compile hash-gen kernel module:
   ``` shell
   cd ~/osml/hash-table-gen
-  mkdir /tmp/osml
+  mkdir /etc/osml
   cp nice_file /tmp/osml
   make
   ```
@@ -28,7 +28,7 @@ https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.4.59.tar.xz
   ```
 7) Then to make the kernel module load at boot, issue following commands:
   ``` shell
-  sudo cp ~/osml/hash-table-gen /lib/modules/4.4.59/kernel/drivers
+  sudo cp ~/osml/hash-table-gen/hash-gen.ko /lib/modules/4.4.59/kernel/drivers
   sudo nano /etc/modules
      Note: append hash-gen to the end of this file
   sudo depmod
