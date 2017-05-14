@@ -6,11 +6,11 @@ Steps to run the project:
   sudo apt-get install acct pip libdatetime-perl
   sudo pip install numpy scipy scikit-learn
   ```
-2) Place the contents of the scripts folder to /usr/local/bin. 
+2) Place the contents of the scripts folder to /opt/osml. 
 
 3) Run the OSML system using the following commands:
 ``` shell
-  sudo usr/local/run_osml.sh
+  sudo /opt/osml/run_osml.sh
   ```
   
 4) Download the kernel source code (version 4.4.59) from 
