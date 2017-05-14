@@ -10,7 +10,7 @@ Steps to run the project:
 
 3) Run the OSML system using the following commands:
 ``` shell
-  sudo ./run.sh
+  sudo usr/local/run_osml.sh
   ```
   
 4) Download the kernel source code (version 4.4.59) from 
