@@ -62,7 +62,7 @@ int collect_attributes(struct task_struct* task)
 void set_nice(struct task_struct* task) 
 {
 	int osml_nice;
-	
+	struct task_struct* p;
 	// Check if hashtable has been populated
 	if(!hash_empty(my_hash))
 	{
@@ -72,8 +72,11 @@ void set_nice(struct task_struct* task)
 		// Assign value if within range
 		if(osml_nice>=-20 && osml_nice<=19)
 		{
-			task->static_prio = NICE_TO_PRIO(osml_nice);
-			printk("Priority: %d, %d",osml_nice, task->static_prio);
+			//task->static_prio = NICE_TO_PRIO(osml_nice);
+			for_each_process(p){
+				osml_nice = get_nice(p);
+				set_user_nice(p, osml_nice);
+			}
 		}
 		else if(osml_nice == -99) // If not found, log the attributes
 			collect_attributes(task);
