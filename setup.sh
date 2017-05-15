@@ -1,15 +1,17 @@
 #!/usr/bin/env bash
 
 #Install required packages
-apt-get install acct pip libdatetime-perl
+apt-get -y install acct python-pip libdatetime-perl
 pip install numpy scipy scikit-learn
 
-mkdir /opt/osml
-mkdir /etc/osml
+mkdir -p /opt/osml
+mkdir -p /etc/osml
+mkdir -p /usr/src/linux-4.4.59
 
-cp -R scripts ../opt/osml
-/opt/osml/run_osml.sh
+cp -R scripts /opt/osml
+pushd /opt/osml/scripts && ./run_osml.sh && popd
 
+pwd && ls
 tar -xf include/linux-4.4.59.tar.xz -C /usr/src/linux-4.4.59
 cp -R osml /usr/src/linux-4.4.59
 cp include/fork.c /usr/src/linux-4.4.59/kernel
