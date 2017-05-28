@@ -29,7 +29,7 @@ while(<MYFILE>) {
 	#print "day: $3, month: $4, year: $5\n";
 	#print "old freq: $2\n";
 	$temp = length $1;
-	print $temp;
+	#print $temp;
 	if( $temp > 0 ) {
 		#print "old process\n";
 		$olddate = DateTime->new(year => $5, month => $4, day => $3);

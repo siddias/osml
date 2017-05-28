@@ -68,9 +68,9 @@ with open('nice_file.json','r') as f:
 data.update(process_dict)
 
 
-with open('nice_file','w') as f:
+with open('/etc/osml/nice_file','w') as f:
 	for name,nice in data.items():
-		f.write("%-50s%03d\n" %(name,nice))
+		f.write("%-50s%02d\n" %(name,nice))
 
 with open('nice_file.json','w') as f:
 	json.dump(data,f)
